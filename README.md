@@ -3,7 +3,7 @@
 **What actually drives AFL margins, and how do teams play?**
 A reproducible Python analysis of public AFL data, 2019–2026.
 
-*Written by Stefan Karydis — sport scientist and football data analyst.
+Written by Stefan Karydis — sport scientist and football data analyst.
 
 ---
 
