@@ -11,13 +11,13 @@ A reproducible Python analysis of public AFL data, 2019–2026.
 
 1. **Which team statistics are signal, not noise?** Split-half reliability of team stats: which ones are stable team traits and which mostly bounce around week to week.
 2. **How do teams play?** A style map of all 18 clubs using PCA, and how the competition has shifted since 2019.
-3. **What explains the margin?** A regularised regression trained on 2019–2025 and tested on the unseen 2026 season, compared against a simple baseline.
+3. **What explains the margin?** A regularised regression trained on 2019–2025 and tested on the 2026 season, compared against a simple baseline.
 
-Each section ends with a plain-English summary for coaches.
+Each section ends with a summary example for coaches.
 
 ## Data
 
-Public data from [AFL Tables](https://afltables.com), pulled with the [fitzRoy](https://github.com/jimmyday12/fitzRoy) R package. No club, GPS or private data is used anywhere in this repository.
+Public data from [AFL Tables](https://afltables.com), pulled with the [fitzRoy](https://github.com/jimmyday12/fitzRoy) R package.
 
 ## Project structure
 
@@ -51,13 +51,11 @@ python -m src.reliability
 
 ## How I used an AI coding agent
 
-I built this with an AI coding agent (Claude) as a pair programmer. My rules:
+I built this with an AI coding agent as a pair programmer. My rules:
 
 - **I own the questions and the interpretation.** The agent drafts code; I decide what to measure and what the result means.
 - **Every number is tested.** Automated tests check the data against known totals (e.g. every team's score matches the official result) before any modelling.
 - **Every change is reviewed and committed.** The commit history shows how the analysis developed.
-
-*Example of a mistake caught during review: to be added.*
 
 ## Results so far
 
