@@ -41,8 +41,12 @@ Rscript R/pull_data.R
 conda env create -f environment.yml      # or: pip install -r requirements.txt
 conda activate afl-team-analytics
 
-# 3. Run the checks
+# 3. Build the tidy table and run the checks
+python -m src.build_team_matches
 pytest
+
+# 4. Analyses
+python -m src.reliability
 ```
 
 ## How I used an AI coding agent
@@ -55,11 +59,19 @@ I built this with an AI coding agent (Claude) as a pair programmer. My rules:
 
 *Example of a mistake caught during review: to be added.*
 
+## Results so far
+
+### 1. Which team stats are signal?
+
+![Split-half reliability of AFL team stats](outputs/figures/stat_reliability.png)
+
+Run: `python -m src.reliability` (table in `outputs/reliability.csv`).
+
 ## Status
 
 - [x] Repository and data pipeline set up
-- [ ] Tidy team-match table + integrity tests
-- [ ] Stat reliability
+- [x] Tidy team-match table + integrity tests (8 checks against official results)
+- [x] Stat reliability
 - [ ] Team style map
 - [ ] Margin model
 - [ ] Coach summary
