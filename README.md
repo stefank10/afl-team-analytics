@@ -58,7 +58,7 @@ I built this with an AI coding agent as a pair programmer. My rules:
 - **Every number is tested.** Automated tests check the data against known totals (e.g. every team's score matches the official result) before any modelling.
 - **Every change is reviewed and committed.** The commit history shows how the analysis developed.
 
-**A mistake caught in review.** The first version of the margin model included rebound-50 differential and explained 95% of the 2026 margin, with a typical error under 7 points. That was too good to be true. An inside 50 either ends in a scoring shot or gets rebounded by the opponent, so inside-50 differential plus rebound-50 differential largely rebuilds the scoring-shot differential (r = 0.82 in this data). The model was restating the scoreboard, not explaining it. Rebound 50s were removed, and a test (`tests/test_margin_model.py`) now fails if any scoring-related stat is used as a feature.
+**A mistake caught in review.** The first version of the margin model included rebound-50 differential and explained 95% of the 2026 margin, with a typical error under 7%. That was too good to be true to me. An inside 50 either ends in a scoring shot or gets rebounded by the opponent, so inside-50 differential plus rebound-50 differential largely just rebuilds the scoring-shot differential (r = 0.82 in this data). Meaning that the model was just restating the scoreboard, and not explaining it. It was decided that rebound 50s should be removed, and a test (`tests/test_margin_model.py`) now fails if any scoring-related stat is used as a feature.
 
 ## Results so far
 
