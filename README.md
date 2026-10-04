@@ -7,6 +7,14 @@ Written by Stefan Karydis — sport scientist and football data analyst.
 
 ---
 
+## For coaches: the short version
+
+- **How a team moves the ball is its most repeatable trait.** Handball use and uncontested possession rank the clubs almost the same way week after week, so they're the best guide to how an opponent will play.
+- **Some stats are mostly noise game to game.** Free kicks, contested marks and team tackle counts swing a lot, so I wouldn't read much into one week of them.
+- **Marks inside 50 carry the most weight.** Once a game is played, each extra mark inside 50 is worth about 2 points of margin, more than any other stat edge.
+- **Win the contested ball and get it inside 50.** Those are the next biggest edges. Clangers cost about half a point each.
+- **These are patterns, not guarantees.** They come from public data and describe what happened in games; they don't prove that chasing one stat will change a result.
+
 ## Questions
 
 1. **Which team statistics are signal, not noise?** Split-half reliability of team stats: which ones are stable team traits and which mostly bounce around week to week.
@@ -58,13 +66,15 @@ I built this with an AI coding agent as a pair programmer. My rules:
 - **Every number is tested.** Automated tests check the data against known totals (e.g. every team's score matches the official result) before any modelling.
 - **Every change is reviewed and committed.** The commit history shows how the analysis developed.
 
-**A mistake caught in review.** The first version of the margin model included rebound-50 differential and explained 95% of the 2026 margin, with a typical error under 7%. That was too good to be true to me. An inside 50 either ends in a scoring shot or gets rebounded by the opponent, so inside-50 differential plus rebound-50 differential largely just rebuilds the scoring-shot differential (r = 0.82 in this data). Meaning that the model was just restating the scoreboard, and not explaining it. It was decided that rebound 50s should be removed, and a test (`tests/test_margin_model.py`) now fails if any scoring-related stat is used as a feature.
+**A mistake caught in review.** The first version of the margin model included rebound-50 differential and explained 95% of the 2026 margin, with a typical error under 7 points. That was too good to be true to me. An inside 50 either ends in a scoring shot or gets rebounded by the opponent, so inside-50 differential plus rebound-50 differential largely just rebuilds the scoring-shot differential (r = 0.82 in this data). Meaning that the model was just restating the scoreboard, and not explaining it. It was decided that rebound 50s should be removed, and a test (`tests/test_margin_model.py`) now fails if any scoring-related stat is used as a feature.
 
 ## Results so far
 
 ### 1. Which team stats are signal?
 
 ![Split-half reliability of AFL team stats](outputs/figures/stat_reliability.png)
+
+**For coaches:** how a team moves the ball (handballs, uncontested possessions, disposals) is the most repeatable part of its style, so it's the best guide to how an opponent will play. Free kicks for, contested marks and tackle counts swing a lot from week to week, so one game of them tells you little.
 
 Run: `python -m src.reliability` (table in `outputs/reliability.csv`).
 
@@ -81,7 +91,9 @@ A ridge regression on home-minus-away stat differentials, trained on 2019–2025
 | Ridge, all process stats (comparison) | 17.4 | 0.72 |
 | **Ridge, interpretable set (main model)** | **19.3** | **0.65** |
 
-**Why I didn't use the most accurate model.** I could make the model about 2% more accurate by adding kicks, handballs and marks. The trouble is those stats largely count the same thing as possessions (kicks plus handballs is roughly every possession, and most marks are uncontested possessions). When a model is given the same information twice, it splits the credit between the two in strange ways. In this case it said kicks were hugely valuable and uncontested possessions were hugely costly, which makes no football sense. A coach would rightly stop trusting the model at that point. So the main model is the slightly less accurate one whose numbers all make sense, and the more accurate version is shown alongside it for comparison.
+**Why I didn't use the most accurate model.** I could cut the model's typical error by about 2 points by adding kicks, handballs and marks. The trouble is those stats largely count the same thing as possessions (kicks plus handballs is roughly every possession, and most marks are uncontested possessions). When a model is given the same information twice, it splits the credit between the two in strange ways. In this case it said kicks were hugely valuable and uncontested possessions were hugely costly, which makes no football sense. A coach would rightly stop trusting the model at that point. So the main model is the slightly less accurate one whose numbers all make sense, and the more accurate version is shown alongside it for comparison.
+
+**For coaches:** once a game is played, the biggest single edge is marks inside 50, worth about 2 points of margin each. Winning the contested ball (about half a point per extra contested possession) and getting it inside 50 (about half a point per extra entry) come next. Each extra clanger costs about half a point. These are associations, not proof that chasing one number will change a result.
 
 This model is **descriptive**: it explains a margin once you know how the game played out. It is not a pre-game prediction.
 
@@ -94,4 +106,4 @@ Run: `python -m src.margin_model` (scores, coefficients and 2026 predictions in 
 - [x] Stat reliability
 - [ ] Team style map
 - [x] Margin model (time-based split, two baselines, leakage test)
-- [ ] Coach summary
+- [x] Coach summary
