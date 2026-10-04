@@ -5,3 +5,4 @@ statsmodels
 matplotlib
 jupyterlab
 pytest
+adjustText

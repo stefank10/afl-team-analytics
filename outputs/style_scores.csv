@@ -1,0 +1,145 @@
+season,team,pc1,pc2
+2019,Adelaide,1.055,-0.895
+2019,Brisbane Lions,-2.464,1.26
+2019,Carlton,-0.68,0.784
+2019,Collingwood,1.782,0.363
+2019,Essendon,0.486,-1.787
+2019,Fremantle,-1.054,-1.248
+2019,Geelong,-2.044,0.624
+2019,Gold Coast,-0.175,0.843
+2019,Greater Western Sydney,1.44,2.112
+2019,Hawthorn,-1.108,-0.446
+2019,Melbourne,-0.549,-0.004
+2019,North Melbourne,0.389,-2.478
+2019,Port Adelaide,-1.105,-0.992
+2019,Richmond,1.566,-0.813
+2019,St Kilda,0.687,0.302
+2019,Sydney,0.015,0.084
+2019,West Coast,0.581,2.717
+2019,Western Bulldogs,1.177,-0.426
+2020,Adelaide,-1.069,-2.383
+2020,Brisbane Lions,-1.522,2.725
+2020,Carlton,-2.28,1.182
+2020,Collingwood,0.684,-1.325
+2020,Essendon,2.396,-1.545
+2020,Fremantle,-0.197,-0.085
+2020,Geelong,0.634,2.344
+2020,Gold Coast,-0.051,0.178
+2020,Greater Western Sydney,0.285,0.678
+2020,Hawthorn,1.086,-0.628
+2020,Melbourne,-0.274,0.384
+2020,North Melbourne,0.429,-1.85
+2020,Port Adelaide,-2.007,-0.614
+2020,Richmond,1.717,0.1
+2020,St Kilda,0.966,1.188
+2020,Sydney,-1.279,-0.581
+2020,West Coast,0.037,2.305
+2020,Western Bulldogs,0.445,-2.074
+2021,Adelaide,-1.851,-1.949
+2021,Brisbane Lions,-2.818,1.658
+2021,Carlton,0.341,1.03
+2021,Collingwood,1.921,0.825
+2021,Essendon,1.43,-1.022
+2021,Fremantle,0.779,-0.655
+2021,Geelong,0.384,0.772
+2021,Gold Coast,1.274,1.431
+2021,Greater Western Sydney,-1.001,-0.502
+2021,Hawthorn,0.556,-1.967
+2021,Melbourne,-2.296,-0.539
+2021,North Melbourne,2.903,0.892
+2021,Port Adelaide,-2.123,-0.567
+2021,Richmond,1.517,-0.774
+2021,St Kilda,0.163,0.318
+2021,Sydney,-0.592,-0.016
+2021,West Coast,0.234,2.629
+2021,Western Bulldogs,-0.822,-1.564
+2022,Adelaide,-2.896,-2.572
+2022,Brisbane Lions,-1.602,2.091
+2022,Carlton,0.302,-0.976
+2022,Collingwood,-1.223,-1.572
+2022,Essendon,3.069,0.421
+2022,Fremantle,0.576,-1.19
+2022,Geelong,0.656,0.736
+2022,Gold Coast,-2.075,1.46
+2022,Greater Western Sydney,0.581,0.31
+2022,Hawthorn,0.212,-0.646
+2022,Melbourne,-1.29,-1.387
+2022,North Melbourne,0.557,-0.563
+2022,Port Adelaide,0.048,0.125
+2022,Richmond,0.317,-0.299
+2022,St Kilda,1.463,1.092
+2022,Sydney,-1.369,1.371
+2022,West Coast,1.928,2.591
+2022,Western Bulldogs,0.746,-0.99
+2023,Adelaide,-2.679,0.002
+2023,Brisbane Lions,-0.996,3.53
+2023,Carlton,-0.801,-0.39
+2023,Collingwood,0.058,-0.465
+2023,Essendon,2.828,0.653
+2023,Fremantle,0.155,-0.307
+2023,Geelong,-0.501,1.498
+2023,Gold Coast,-1.266,1.88
+2023,Greater Western Sydney,-0.004,-1.657
+2023,Hawthorn,3.61,-1.504
+2023,Melbourne,-1.705,-0.903
+2023,North Melbourne,1.424,-1.348
+2023,Port Adelaide,-1.732,0.469
+2023,Richmond,-0.222,-0.508
+2023,St Kilda,1.317,0.698
+2023,Sydney,-1.528,-0.718
+2023,West Coast,2.895,-0.255
+2023,Western Bulldogs,-0.855,-0.676
+2024,Adelaide,-1.909,-0.631
+2024,Brisbane Lions,0.083,3.482
+2024,Carlton,-1.73,-0.046
+2024,Collingwood,-1.911,-0.728
+2024,Essendon,2.075,-0.813
+2024,Fremantle,2.739,-1.024
+2024,Geelong,-1.738,0.335
+2024,Gold Coast,-0.731,-1.593
+2024,Greater Western Sydney,-0.458,-1.823
+2024,Hawthorn,1.277,-0.445
+2024,Melbourne,-0.72,1.061
+2024,North Melbourne,0.825,-0.82
+2024,Port Adelaide,-0.978,1.959
+2024,Richmond,2.041,-1.052
+2024,St Kilda,0.835,2.244
+2024,Sydney,0.932,0.709
+2024,West Coast,-0.268,-0.175
+2024,Western Bulldogs,-0.361,-0.639
+2025,Adelaide,-3.432,1.34
+2025,Brisbane Lions,0.809,2.894
+2025,Carlton,-1.9,0.432
+2025,Collingwood,-0.893,0.44
+2025,Essendon,2.661,-1.782
+2025,Fremantle,-1.842,-2.053
+2025,Geelong,-0.304,3.169
+2025,Gold Coast,-1.745,-2.219
+2025,Greater Western Sydney,0.649,-0.318
+2025,Hawthorn,-0.584,-0.677
+2025,Melbourne,-0.184,0.187
+2025,North Melbourne,0.934,-1.423
+2025,Port Adelaide,0.556,-0.056
+2025,Richmond,1.614,-0.04
+2025,St Kilda,1.443,1.027
+2025,Sydney,1.302,0.371
+2025,West Coast,0.91,-0.809
+2025,Western Bulldogs,0.005,-0.485
+2026,Adelaide,-3.625,0.496
+2026,Brisbane Lions,0.118,3.229
+2026,Carlton,0.768,1.147
+2026,Collingwood,0.569,-0.385
+2026,Essendon,2.459,-0.02
+2026,Fremantle,-0.557,-1.042
+2026,Geelong,-1.148,-0.075
+2026,Gold Coast,0.948,-0.997
+2026,Greater Western Sydney,-0.153,-1.398
+2026,Hawthorn,0.311,0.315
+2026,Melbourne,-1.506,-0.868
+2026,North Melbourne,1.824,0.876
+2026,Port Adelaide,0.04,3.023
+2026,Richmond,0.146,-0.634
+2026,St Kilda,1.409,0.044
+2026,Sydney,-1.192,-3.302
+2026,West Coast,-0.323,-0.325
+2026,Western Bulldogs,-0.089,-0.084

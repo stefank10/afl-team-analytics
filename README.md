@@ -56,6 +56,7 @@ pytest
 # 4. Analyses
 python -m src.reliability
 python -m src.margin_model
+python -m src.style_map
 ```
 
 ## How I used an AI coding agent
@@ -99,11 +100,28 @@ This model is **descriptive**: it explains a margin once you know how the game p
 
 Run: `python -m src.margin_model` (scores, coefficients and 2026 predictions in `outputs/`).
 
+### 3. How do teams play?
+
+![2026 AFL team style map](outputs/figures/style_map_2026.png)
+
+Eight style ratios per club (kick share, uncontested share of possessions, marks per disposal, contested share of marks, bounces per 100 disposals, tackles per opposition possession, marks inside 50 per inside 50, one percenters per opposition inside 50). Ratios rather than raw counts, so a fast, high-possession game doesn't make a team look different. Each club is compared with its own season's league average, then PCA reduces the eight ratios to two axes that together capture 52% of the differences between clubs:
+
+- **Left to right:** contest and pressure (contested marks, tackles, one percenters) through to uncontested, running ball movement (uncontested possessions, bounces).
+- **Bottom to top:** handball and ground-ball game through to kick-and-mark game (kick share, marks per disposal).
+
+**For coaches:** in 2026 Brisbane and Port Adelaide played the most kick-and-mark style, Sydney the most handball-and-ground-ball, Adelaide the most contest-and-pressure, and Essendon and North Melbourne the most uncontested-and-running. A club's position carries over only moderately from one season to the next (r ≈ 0.5–0.6), so treat the map as a starting point for opposition profiling, not a fixed label.
+
+![How the AFL's style has shifted since 2019](outputs/figures/competition_shift.png)
+
+**How the competition has moved since 2019:** bounces per 100 disposals are up 49%, the contested share of marks is down 21%, one percenters per opposition inside 50 are down 19%, and marks inside 50 per inside 50 are up 9%. In short: more running and uncontested ball, less contest in the air. Caveats: 2020's shortened, hub-based season is an outlier, and part of a change this large in bounces could reflect how they are recorded rather than how the game is played.
+
+Run: `python -m src.style_map` (ratios, scores, loadings and the indexed trends in `outputs/`).
+
 ## Status
 
 - [x] Repository and data pipeline set up
 - [x] Tidy team-match table + integrity tests (8 checks against official results)
 - [x] Stat reliability
-- [ ] Team style map
+- [x] Team style map and competition shift
 - [x] Margin model (time-based split, two baselines, leakage test)
 - [x] Coach summary
