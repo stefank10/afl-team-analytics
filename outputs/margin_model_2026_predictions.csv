@@ -1,0 +1,219 @@
+date,team,opponent,margin,predicted
+2026-03-05,Sydney,Carlton,63,18.9
+2026-03-06,Gold Coast,Geelong,56,22.0
+2026-03-07,Brisbane Lions,Western Bulldogs,-5,13.7
+2026-03-07,Greater Western Sydney,Hawthorn,27,16.1
+2026-03-08,St Kilda,Collingwood,-12,2.6
+2026-03-12,Carlton,Richmond,4,-19.7
+2026-03-13,Essendon,Hawthorn,-62,-67.9
+2026-03-14,Collingwood,Adelaide,-14,-6.7
+2026-03-14,Geelong,Fremantle,10,30.7
+2026-03-14,Sydney,Brisbane Lions,44,38.1
+2026-03-14,Western Bulldogs,Greater Western Sydney,81,35.3
+2026-03-15,Gold Coast,West Coast,59,18.6
+2026-03-15,Melbourne,St Kilda,13,-13.8
+2026-03-15,North Melbourne,Port Adelaide,46,36.9
+2026-03-19,Hawthorn,Sydney,17,44.3
+2026-03-20,Adelaide,Western Bulldogs,-6,-11.5
+2026-03-21,Fremantle,Melbourne,48,14.3
+2026-03-21,Greater Western Sydney,St Kilda,-4,18.8
+2026-03-21,Richmond,Gold Coast,-68,-65.8
+2026-03-22,Port Adelaide,Essendon,63,66.5
+2026-03-22,West Coast,North Melbourne,17,1.4
+2026-03-26,Geelong,Adelaide,8,40.4
+2026-03-27,Collingwood,Greater Western Sydney,33,-6.4
+2026-03-28,Essendon,North Melbourne,-12,-13.0
+2026-03-28,Fremantle,Richmond,60,64.0
+2026-03-28,St Kilda,Brisbane Lions,-33,-9.1
+2026-03-29,Carlton,Melbourne,-23,-3.3
+2026-03-29,Port Adelaide,West Coast,-2,10.4
+2026-04-02,Brisbane Lions,Collingwood,54,72.4
+2026-04-03,Adelaide,Fremantle,-2,-1.0
+2026-04-03,North Melbourne,Carlton,10,22.4
+2026-04-04,Richmond,Port Adelaide,-42,10.1
+2026-04-04,West Coast,Sydney,-128,-84.1
+2026-04-05,Melbourne,Gold Coast,20,27.0
+2026-04-05,Western Bulldogs,Essendon,34,36.9
+2026-04-06,Hawthorn,Geelong,1,10.4
+2026-04-09,Adelaide,Carlton,28,-1.5
+2026-04-10,Collingwood,Fremantle,-6,26.9
+2026-04-11,Essendon,Melbourne,45,39.3
+2026-04-11,Hawthorn,Western Bulldogs,40,18.5
+2026-04-11,North Melbourne,Brisbane Lions,-26,9.3
+2026-04-11,Sydney,Gold Coast,32,52.2
+2026-04-12,Geelong,West Coast,46,55.9
+2026-04-12,Greater Western Sydney,Richmond,56,27.9
+2026-04-12,Port Adelaide,St Kilda,-14,21.2
+2026-04-16,Carlton,Collingwood,-5,8.4
+2026-04-17,Geelong,Western Bulldogs,75,37.2
+2026-04-17,Sydney,Greater Western Sydney,41,5.9
+2026-04-18,Adelaide,St Kilda,1,8.5
+2026-04-18,Gold Coast,Essendon,9,8.2
+2026-04-18,Hawthorn,Port Adelaide,3,11.3
+2026-04-19,Melbourne,Brisbane Lions,2,-2.8
+2026-04-19,North Melbourne,Richmond,75,38.7
+2026-04-19,West Coast,Fremantle,-56,-31.0
+2026-04-23,Western Bulldogs,Sydney,-66,-54.7
+2026-04-24,Richmond,Melbourne,-54,-28.9
+2026-04-25,Essendon,Collingwood,-77,-47.7
+2026-04-25,Fremantle,Carlton,14,11.6
+2026-04-25,Hawthorn,Gold Coast,49,12.4
+2026-04-25,Port Adelaide,Geelong,30,55.4
+2026-04-26,Brisbane Lions,Adelaide,52,37.8
+2026-04-26,Greater Western Sydney,North Melbourne,7,5.0
+2026-04-26,St Kilda,West Coast,101,51.3
+2026-04-30,Collingwood,Hawthorn,0,-39.3
+2026-05-01,Adelaide,Port Adelaide,1,7.0
+2026-05-01,Western Bulldogs,Fremantle,-12,-11.7
+2026-05-02,Carlton,St Kilda,-39,-17.4
+2026-05-02,Essendon,Brisbane Lions,-64,-40.9
+2026-05-02,Geelong,North Melbourne,49,7.1
+2026-05-02,West Coast,Richmond,-11,-0.7
+2026-05-03,Gold Coast,Greater Western Sydney,20,5.1
+2026-05-03,Sydney,Melbourne,17,29.6
+2026-05-07,Fremantle,Hawthorn,15,29.6
+2026-05-08,Brisbane Lions,Carlton,11,-36.3
+2026-05-08,Port Adelaide,Western Bulldogs,-2,-32.1
+2026-05-09,Geelong,Collingwood,54,2.0
+2026-05-09,Gold Coast,St Kilda,29,-7.7
+2026-05-09,Greater Western Sydney,Essendon,14,-18.3
+2026-05-09,North Melbourne,Sydney,-8,10.0
+2026-05-10,Melbourne,West Coast,32,22.2
+2026-05-10,Richmond,Adelaide,-37,-32.2
+2026-05-14,Brisbane Lions,Geelong,-41,-10.1
+2026-05-15,Gold Coast,Port Adelaide,25,20.3
+2026-05-15,Sydney,Collingwood,6,-1.1
+2026-05-16,Adelaide,North Melbourne,68,46.3
+2026-05-16,Carlton,Western Bulldogs,12,20.4
+2026-05-16,Melbourne,Hawthorn,39,-6.4
+2026-05-17,Essendon,Fremantle,-43,0.3
+2026-05-17,St Kilda,Richmond,36,44.9
+2026-05-17,West Coast,Greater Western Sydney,17,-1.1
+2026-05-21,Hawthorn,Adelaide,9,-0.1
+2026-05-22,Fremantle,St Kilda,30,28.8
+2026-05-22,Richmond,Essendon,18,-2.0
+2026-05-23,Collingwood,West Coast,10,10.1
+2026-05-23,Geelong,Sydney,27,21.2
+2026-05-23,North Melbourne,Gold Coast,6,24.6
+2026-05-23,Port Adelaide,Carlton,-34,-11.8
+2026-05-24,Greater Western Sydney,Brisbane Lions,78,37.5
+2026-05-24,Western Bulldogs,Melbourne,3,21.0
+2026-05-28,St Kilda,Hawthorn,-52,-11.8
+2026-05-29,Carlton,Geelong,4,-14.1
+2026-05-30,Brisbane Lions,Fremantle,-25,-5.3
+2026-05-30,Sydney,Richmond,114,83.7
+2026-05-30,Western Bulldogs,Collingwood,4,12.7
+2026-05-31,Melbourne,Greater Western Sydney,-49,-14.6
+2026-05-31,West Coast,Essendon,30,34.5
+2026-06-04,Adelaide,Geelong,1,4.5
+2026-06-05,Hawthorn,Western Bulldogs,-6,34.8
+2026-06-06,Gold Coast,Brisbane Lions,-31,-35.7
+2026-06-06,North Melbourne,Fremantle,-124,-68.1
+2026-06-06,West Coast,Port Adelaide,-6,0.6
+2026-06-07,Essendon,Carlton,-5,14.7
+2026-06-07,Sydney,St Kilda,2,1.1
+2026-06-08,Collingwood,Melbourne,-8,-1.9
+2026-06-11,Western Bulldogs,Adelaide,-57,-38.8
+2026-06-12,Geelong,Gold Coast,45,8.9
+2026-06-13,Melbourne,Essendon,45,19.2
+2026-06-13,North Melbourne,West Coast,1,19.7
+2026-06-13,Port Adelaide,Sydney,-3,13.2
+2026-06-14,Richmond,Brisbane Lions,-35,-4.6
+2026-06-14,St Kilda,Greater Western Sydney,8,6.3
+2026-06-18,Fremantle,Geelong,9,31.7
+2026-06-19,Gold Coast,Hawthorn,-16,28.7
+2026-06-20,Adelaide,Melbourne,17,34.0
+2026-06-20,Collingwood,Port Adelaide,26,14.0
+2026-06-20,Greater Western Sydney,Carlton,-23,-30.7
+2026-06-21,Richmond,North Melbourne,-25,-37.0
+2026-06-21,St Kilda,Western Bulldogs,-22,10.2
+2026-06-25,Brisbane Lions,Sydney,43,12.0
+2026-06-26,Hawthorn,Greater Western Sydney,14,-7.5
+2026-06-27,Carlton,West Coast,53,81.8
+2026-06-27,Collingwood,Richmond,34,29.7
+2026-06-27,Port Adelaide,Adelaide,26,27.7
+2026-06-28,Fremantle,Gold Coast,51,47.7
+2026-06-28,North Melbourne,Essendon,14,34.8
+2026-07-02,Geelong,Brisbane Lions,-22,18.3
+2026-07-03,Sydney,Western Bulldogs,35,41.4
+2026-07-03,West Coast,Adelaide,-25,-13.6
+2026-07-04,Gold Coast,Collingwood,-6,-29.8
+2026-07-04,Greater Western Sydney,Fremantle,21,31.9
+2026-07-04,Hawthorn,Melbourne,-35,-16.7
+2026-07-04,Richmond,Carlton,-2,-17.0
+2026-07-05,Essendon,St Kilda,-67,-60.7
+2026-07-05,Port Adelaide,North Melbourne,21,7.6
+2026-07-09,Fremantle,Sydney,38,32.3
+2026-07-10,Collingwood,North Melbourne,4,0.5
+2026-07-11,Adelaide,Gold Coast,79,58.0
+2026-07-11,Carlton,Hawthorn,-64,-32.2
+2026-07-11,Greater Western Sydney,Geelong,13,24.2
+2026-07-11,St Kilda,Port Adelaide,14,41.1
+2026-07-12,Brisbane Lions,Essendon,90,57.2
+2026-07-12,Melbourne,Richmond,46,64.5
+2026-07-12,Western Bulldogs,West Coast,16,5.3
+2026-07-16,Geelong,St Kilda,27,19.2
+2026-07-17,Sydney,Adelaide,-16,-34.8
+2026-07-18,Collingwood,Carlton,21,12.2
+2026-07-18,North Melbourne,Melbourne,-16,-1.0
+2026-07-18,Port Adelaide,Fremantle,-28,-38.8
+2026-07-18,West Coast,Brisbane Lions,-24,-33.3
+2026-07-19,Essendon,Greater Western Sydney,3,-9.2
+2026-07-19,Gold Coast,Western Bulldogs,-9,36.9
+2026-07-19,Richmond,Hawthorn,-70,-22.0
+2026-07-23,Adelaide,Collingwood,-34,-2.7
+2026-07-24,Fremantle,West Coast,70,38.5
+2026-07-24,Melbourne,Geelong,-20,-17.4
+2026-07-25,Carlton,Gold Coast,13,28.1
+2026-07-25,Greater Western Sydney,Sydney,-51,-18.0
+2026-07-25,Hawthorn,Essendon,93,56.4
+2026-07-25,Western Bulldogs,Richmond,57,60.6
+2026-07-26,Brisbane Lions,Port Adelaide,59,37.0
+2026-07-26,North Melbourne,St Kilda,-31,-20.3
+2026-07-30,Collingwood,Geelong,-25,-28.2
+2026-07-31,Fremantle,Western Bulldogs,37,18.2
+2026-08-01,Carlton,Brisbane Lions,76,53.4
+2026-08-01,Hawthorn,North Melbourne,16,14.7
+2026-08-01,Port Adelaide,Greater Western Sydney,-12,-3.8
+2026-08-01,St Kilda,Sydney,-19,-16.0
+2026-08-02,Essendon,Adelaide,-72,-50.2
+2026-08-02,Gold Coast,Melbourne,-9,-14.0
+2026-08-02,Richmond,West Coast,11,-14.7
+2026-08-06,Western Bulldogs,North Melbourne,-23,-17.8
+2026-08-07,Brisbane Lions,Hawthorn,67,31.0
+2026-08-08,Adelaide,Richmond,9,-5.5
+2026-08-08,Geelong,Essendon,67,41.8
+2026-08-08,Melbourne,Fremantle,4,3.4
+2026-08-08,Sydney,Port Adelaide,97,48.4
+2026-08-09,Greater Western Sydney,Gold Coast,-2,-10.1
+2026-08-09,St Kilda,Carlton,-44,-33.6
+2026-08-09,West Coast,Collingwood,-19,-17.3
+2026-08-14,Fremantle,Adelaide,24,31.4
+2026-08-15,Brisbane Lions,Gold Coast,42,-1.5
+2026-08-15,Hawthorn,Collingwood,0,-9.3
+2026-08-15,North Melbourne,Geelong,-15,-15.1
+2026-08-15,Port Adelaide,Melbourne,-76,-28.9
+2026-08-15,Richmond,St Kilda,-49,-45.1
+2026-08-16,Essendon,Sydney,-36,-19.2
+2026-08-16,Greater Western Sydney,West Coast,54,19.2
+2026-08-16,Western Bulldogs,Carlton,0,-7.7
+2026-08-20,St Kilda,Gold Coast,-23,-26.8
+2026-08-21,Collingwood,Brisbane Lions,-63,-26.0
+2026-08-22,Adelaide,Greater Western Sydney,56,41.0
+2026-08-22,Carlton,Fremantle,37,39.9
+2026-08-22,Geelong,Richmond,57,36.0
+2026-08-22,Melbourne,Western Bulldogs,-21,-2.8
+2026-08-23,Essendon,Port Adelaide,-10,25.6
+2026-08-23,Sydney,North Melbourne,53,18.6
+2026-08-23,West Coast,Hawthorn,-62,-50.5
+2026-08-28,Western Bulldogs,Collingwood,3,26.3
+2026-08-29,Melbourne,Carlton,-19,-39.5
+2026-09-03,Fremantle,Hawthorn,-32,-9.0
+2026-09-04,Geelong,Carlton,33,30.3
+2026-09-05,Adelaide,Western Bulldogs,22,2.8
+2026-09-05,Sydney,Brisbane Lions,53,45.3
+2026-09-11,Fremantle,Geelong,14,25.2
+2026-09-12,Brisbane Lions,Adelaide,53,17.9
+2026-09-18,Sydney,Fremantle,-12,-35.8
+2026-09-19,Hawthorn,Brisbane Lions,-9,-20.8
+2026-09-26,Fremantle,Brisbane Lions,-7,21.4

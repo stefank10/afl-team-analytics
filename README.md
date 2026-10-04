@@ -47,6 +47,7 @@ pytest
 
 # 4. Analyses
 python -m src.reliability
+python -m src.margin_model
 ```
 
 ## How I used an AI coding agent
@@ -57,6 +58,8 @@ I built this with an AI coding agent as a pair programmer. My rules:
 - **Every number is tested.** Automated tests check the data against known totals (e.g. every team's score matches the official result) before any modelling.
 - **Every change is reviewed and committed.** The commit history shows how the analysis developed.
 
+**A mistake caught in review.** The first version of the margin model included rebound-50 differential and explained 95% of the 2026 margin, with a typical error under 7 points. That was too good to be true. An inside 50 either ends in a scoring shot or gets rebounded by the opponent, so inside-50 differential plus rebound-50 differential largely rebuilds the scoring-shot differential (r = 0.82 in this data). The model was restating the scoreboard, not explaining it. Rebound 50s were removed, and a test (`tests/test_margin_model.py`) now fails if any scoring-related stat is used as a feature.
+
 ## Results so far
 
 ### 1. Which team stats are signal?
@@ -65,11 +68,30 @@ I built this with an AI coding agent as a pair programmer. My rules:
 
 Run: `python -m src.reliability` (table in `outputs/reliability.csv`).
 
+### 2. What explains the margin?
+
+![Margin model coefficients](outputs/figures/margin_model.png)
+
+A ridge regression on home-minus-away stat differentials, trained on 2019–2025 (2020 excluded: shortened quarters) and tested on the unseen 2026 season. One row per game. Scoring stats are excluded because they *are* the margin.
+
+| Model (tested on 2026, 218 games) | Typical error (MAE, pts) | Variance explained (R²) |
+| --- | --- | --- |
+| Home advantage only | 31.3 | 0.00 |
+| Inside-50 differential only | 25.3 | 0.38 |
+| Ridge, all process stats (comparison) | 17.4 | 0.72 |
+| **Ridge, interpretable set (main model)** | **19.3** | **0.65** |
+
+**Why the main model isn't the most accurate one.** Adding kicks, handballs and marks cuts the error by about 2 points, but those stats overlap with possessions, so their coefficients flip sign and become unreadable (kicks strongly positive, uncontested possessions strongly negative). A model coaches can't interpret won't be trusted, so the interpretable set is the main model and the fuller one is reported for comparison.
+
+This model is **descriptive**: it explains a margin once you know how the game played out. It is not a pre-game prediction.
+
+Run: `python -m src.margin_model` (scores, coefficients and 2026 predictions in `outputs/`).
+
 ## Status
 
 - [x] Repository and data pipeline set up
 - [x] Tidy team-match table + integrity tests (8 checks against official results)
 - [x] Stat reliability
 - [ ] Team style map
-- [ ] Margin model
+- [x] Margin model (time-based split, two baselines, leakage test)
 - [ ] Coach summary
