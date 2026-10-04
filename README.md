@@ -27,6 +27,17 @@ Each section ends with a summary example for coaches.
 
 Public data from [AFL Tables](https://afltables.com), pulled with the [fitzRoy](https://github.com/jimmyday12/fitzRoy) R package.
 
+## Scope: a proof of concept
+
+This project uses only basic, publicly available box-score data: team totals of kicks, marks, tackles and so on from AFL Tables. It's meant to show how I approach a football question (framing it, testing the data, validating a model honestly and translating the result for coaches), not to deliver revolutionary insight. Several findings, such as marks inside 50 and contested ball mattering, will be familiar to anyone in a football department.
+
+Club data would allow far deeper analysis. With Champion Data, player tracking and GPS, I'd look at:
+
+- **Possession chains:** where chains start and how they end, rather than season totals. Which entries actually produce scores?
+- **Pressure and field position:** the context that box scores miss, so a stat edge is judged by where and under what pressure it happened.
+- **Physical output alongside game events:** combining GPS with event data, where my sport science background is most useful.
+- **From description to decisions:** turning the margin model and style map into an opposition-preview tool that coaches use week to week.
+
 ## Project structure
 
 ```
