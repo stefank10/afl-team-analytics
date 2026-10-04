@@ -1,0 +1,217 @@
+"Game","Date","Round","Home.Team","Home.Goals","Home.Behinds","Home.Points","Away.Team","Away.Goals","Away.Behinds","Away.Points","Venue","Margin","Season","Round.Type","Round.Number"
+16623,2025-03-07,"R1","Sydney",11,10,76,"Hawthorn",14,12,96,"S.C.G.",-20,2025,"Regular",1
+16624,2025-03-09,"R1","GWS",15,14,104,"Collingwood",6,16,52,"Sydney Showground",52,2025,"Regular",1
+16625,2025-03-13,"R2","Richmond",13,4,82,"Carlton",9,15,69,"M.C.G.",13,2025,"Regular",2
+16626,2025-03-14,"R2","Hawthorn",17,9,111,"Essendon",12,13,85,"M.C.G.",26,2025,"Regular",2
+16627,2025-03-15,"R2","Geelong",23,9,147,"Fremantle",10,9,69,"Kardinia Park",78,2025,"Regular",2
+16628,2025-03-15,"R2","Sydney",12,10,82,"Brisbane Lions",12,14,86,"S.C.G.",-4,2025,"Regular",2
+16629,2025-03-15,"R2","Collingwood",21,10,136,"Port Adelaide",6,9,45,"M.C.G.",91,2025,"Regular",2
+16630,2025-03-15,"R2","Footscray",17,11,113,"North Melbourne",14,13,97,"Docklands",16,2025,"Regular",2
+16631,2025-03-16,"R2","Adelaide",21,9,135,"St Kilda",10,12,72,"Adelaide Oval",63,2025,"Regular",2
+16632,2025-03-16,"R2","Melbourne",11,8,74,"GWS",11,11,77,"M.C.G.",-3,2025,"Regular",2
+16633,2025-03-16,"R2","West Coast",7,7,49,"Gold Coast",20,16,136,"Perth Stadium",-87,2025,"Regular",2
+16634,2025-03-20,"R3","Carlton",8,12,60,"Hawthorn",12,8,80,"M.C.G.",-20,2025,"Regular",3
+16635,2025-03-21,"R3","Footscray",10,10,70,"Collingwood",10,16,76,"M.C.G.",-6,2025,"Regular",3
+16636,2025-03-22,"R3","Essendon",15,10,100,"Adelaide",25,11,161,"M.C.G.",-61,2025,"Regular",3
+16637,2025-03-22,"R3","Port Adelaide",21,14,140,"Richmond",9,14,68,"Adelaide Oval",72,2025,"Regular",3
+16638,2025-03-22,"R3","St Kilda",15,8,98,"Geelong",13,13,91,"Docklands",7,2025,"Regular",3
+16639,2025-03-23,"R3","Brisbane Lions",14,10,94,"West Coast",11,9,75,"Gabba",19,2025,"Regular",3
+16640,2025-03-23,"R3","North Melbourne",19,11,125,"Melbourne",9,12,66,"Docklands",59,2025,"Regular",3
+16641,2025-03-23,"R3","Fremantle",9,11,65,"Sydney",9,14,68,"Perth Stadium",-3,2025,"Regular",3
+16642,2025-03-27,"R4","Essendon",9,18,72,"Port Adelaide",8,12,60,"Docklands",12,2025,"Regular",4
+16643,2025-03-28,"R4","Carlton",11,9,75,"Footscray",12,11,83,"Docklands",-8,2025,"Regular",4
+16644,2025-03-29,"R4","Melbourne",8,14,62,"Gold Coast",18,12,120,"M.C.G.",-58,2025,"Regular",4
+16645,2025-03-29,"R4","St Kilda",20,15,135,"Richmond",7,11,53,"Docklands",82,2025,"Regular",4
+16646,2025-03-29,"R1","Brisbane Lions",10,10,70,"Geelong",9,7,61,"Gabba",9,2025,"Regular",1
+16647,2025-03-29,"R4","Hawthorn",10,16,76,"GWS",9,10,64,"York Park",12,2025,"Regular",4
+16648,2025-03-30,"R4","Adelaide",17,12,114,"North Melbourne",12,6,78,"Adelaide Oval",36,2025,"Regular",4
+16649,2025-03-30,"R4","West Coast",10,8,68,"Fremantle",15,16,106,"Perth Stadium",-38,2025,"Regular",4
+16650,2025-04-03,"R5","Collingwood",8,15,63,"Carlton",6,10,46,"M.C.G.",17,2025,"Regular",5
+16651,2025-04-04,"R5","Geelong",12,13,85,"Melbourne",6,10,46,"Kardinia Park",39,2025,"Regular",5
+16652,2025-04-05,"R5","Gold Coast",13,13,91,"Adelaide",14,6,90,"Carrara",1,2025,"Regular",5
+16653,2025-04-05,"R5","Richmond",13,12,90,"Brisbane Lions",18,10,118,"M.C.G.",-28,2025,"Regular",5
+16654,2025-04-05,"R5","North Melbourne",8,4,52,"Sydney",18,9,117,"Docklands",-65,2025,"Regular",5
+16655,2025-04-06,"R5","GWS",20,12,132,"West Coast",7,9,51,"Sydney Showground",81,2025,"Regular",5
+16656,2025-04-06,"R5","Port Adelaide",10,12,72,"St Kilda",13,11,89,"Adelaide Oval",-17,2025,"Regular",5
+16657,2025-04-06,"R5","Fremantle",15,7,97,"Footscray",12,9,81,"Perth Stadium",16,2025,"Regular",5
+16658,2025-04-10,"R6","Adelaide",15,10,100,"Geelong",18,11,119,"Adelaide Oval",-19,2025,"Regular",6
+16659,2025-04-11,"R6","Collingwood",16,13,109,"Sydney",12,6,78,"Adelaide Oval",31,2025,"Regular",6
+16660,2025-04-12,"R6","North Melbourne",13,11,89,"Gold Coast",21,15,141,"Barossa Park",-52,2025,"Regular",6
+16661,2025-04-12,"R6","Carlton",17,19,121,"West Coast",6,14,50,"Adelaide Oval",71,2025,"Regular",6
+16662,2025-04-12,"R6","Footscray",14,13,97,"Brisbane Lions",18,10,118,"Norwood Oval",-21,2025,"Regular",6
+16663,2025-04-12,"R6","Melbourne",8,9,57,"Essendon",15,6,96,"Adelaide Oval",-39,2025,"Regular",6
+16664,2025-04-13,"R6","Richmond",7,5,47,"Fremantle",16,12,108,"Barossa Park",-61,2025,"Regular",6
+16665,2025-04-13,"R6","St Kilda",12,10,82,"GWS",16,14,110,"Norwood Oval",-28,2025,"Regular",6
+16666,2025-04-13,"R6","Port Adelaide",18,13,121,"Hawthorn",14,7,91,"Adelaide Oval",30,2025,"Regular",6
+16667,2025-04-17,"R7","Brisbane Lions",7,11,53,"Collingwood",16,9,105,"Gabba",-52,2025,"Regular",7
+16668,2025-04-18,"R7","North Melbourne",11,5,71,"Carlton",24,9,153,"Docklands",-82,2025,"Regular",7
+16669,2025-04-18,"R7","West Coast",11,9,75,"Essendon",11,11,77,"Perth Stadium",-2,2025,"Regular",7
+16670,2025-04-19,"R7","Melbourne",16,11,107,"Fremantle",14,13,97,"M.C.G.",10,2025,"Regular",7
+16671,2025-04-19,"R7","Adelaide",7,10,52,"GWS",4,10,34,"Adelaide Oval",18,2025,"Regular",7
+16672,2025-04-19,"R7","Richmond",12,8,80,"Gold Coast",9,15,69,"Docklands",11,2025,"Regular",7
+16673,2025-04-20,"R7","Sydney",10,17,77,"Port Adelaide",13,7,85,"S.C.G.",-8,2025,"Regular",7
+16674,2025-04-20,"R7","Footscray",18,19,127,"St Kilda",8,8,56,"Docklands",71,2025,"Regular",7
+16675,2025-04-21,"R7","Geelong",12,14,86,"Hawthorn",11,13,79,"M.C.G.",7,2025,"Regular",7
+16676,2025-04-24,"R8","Melbourne",12,11,83,"Richmond",9,9,63,"M.C.G.",20,2025,"Regular",8
+16677,2025-04-25,"R8","Collingwood",16,11,107,"Essendon",10,6,66,"M.C.G.",41,2025,"Regular",8
+16678,2025-04-25,"R8","Fremantle",12,13,85,"Adelaide",9,13,67,"Perth Stadium",18,2025,"Regular",8
+16679,2025-04-26,"R8","St Kilda",11,7,73,"Brisbane Lions",17,16,118,"Docklands",-45,2025,"Regular",8
+16680,2025-04-26,"R8","Port Adelaide",14,13,97,"North Melbourne",13,10,88,"Adelaide Oval",9,2025,"Regular",8
+16681,2025-04-26,"R8","GWS",12,9,81,"Footscray",17,11,113,"Manuka Oval",-32,2025,"Regular",8
+16682,2025-04-27,"R8","Gold Coast",17,15,117,"Sydney",12,7,79,"Carrara",38,2025,"Regular",8
+16683,2025-04-27,"R8","Carlton",14,10,94,"Geelong",12,4,76,"M.C.G.",18,2025,"Regular",8
+16684,2025-04-27,"R8","Hawthorn",18,16,124,"West Coast",11,8,74,"Docklands",50,2025,"Regular",8
+16685,2025-05-01,"R9","Essendon",9,11,65,"North Melbourne",9,8,62,"Docklands",3,2025,"Regular",9
+16686,2025-05-02,"R9","St Kilda",14,10,94,"Fremantle",5,3,33,"Docklands",61,2025,"Regular",9
+16687,2025-05-03,"R9","Footscray",20,11,131,"Port Adelaide",5,11,41,"Eureka Stadium",90,2025,"Regular",9
+16688,2025-05-03,"R9","Adelaide",16,14,110,"Carlton",7,8,50,"Adelaide Oval",60,2025,"Regular",9
+16689,2025-05-03,"R9","Collingwood",12,15,87,"Geelong",13,12,90,"M.C.G.",-3,2025,"Regular",9
+16690,2025-05-03,"R9","West Coast",11,10,76,"Melbourne",16,12,108,"Perth Stadium",-32,2025,"Regular",9
+16691,2025-05-04,"R9","Sydney",12,15,87,"GWS",10,13,73,"S.C.G.",14,2025,"Regular",9
+16692,2025-05-04,"R9","Hawthorn",16,13,109,"Richmond",6,8,44,"M.C.G.",65,2025,"Regular",9
+16693,2025-05-04,"R9","Brisbane Lions",9,12,66,"Gold Coast",7,7,49,"Gabba",17,2025,"Regular",9
+16694,2025-05-08,"R10","Fremantle",12,11,83,"Collingwood",15,7,97,"Perth Stadium",-14,2025,"Regular",10
+16695,2025-05-09,"R10","St Kilda",9,8,62,"Carlton",11,11,77,"M.C.G.",-15,2025,"Regular",10
+16696,2025-05-10,"R10","Melbourne",7,14,56,"Hawthorn",13,13,91,"M.C.G.",-35,2025,"Regular",10
+16697,2025-05-10,"R10","Essendon",11,5,71,"Sydney",8,15,63,"Docklands",8,2025,"Regular",10
+16698,2025-05-10,"R10","Gold Coast",15,16,106,"Footscray",14,12,96,"Marrara Oval",10,2025,"Regular",10
+16699,2025-05-10,"R10","Port Adelaide",12,12,84,"Adelaide",13,11,89,"Adelaide Oval",-5,2025,"Regular",10
+16700,2025-05-11,"R10","Richmond",11,15,81,"West Coast",11,13,79,"M.C.G.",2,2025,"Regular",10
+16701,2025-05-11,"R10","Geelong",14,17,101,"GWS",16,9,105,"Kardinia Park",-4,2025,"Regular",10
+16702,2025-05-11,"R10","North Melbourne",10,11,71,"Brisbane Lions",10,11,71,"Bellerive Oval",0,2025,"Regular",10
+16703,2025-05-15,"R11","Gold Coast",16,8,104,"Hawthorn",15,6,96,"Marrara Oval",8,2025,"Regular",11
+16704,2025-05-16,"R11","Sydney",11,12,78,"Carlton",9,8,62,"S.C.G.",16,2025,"Regular",11
+16705,2025-05-17,"R11","Collingwood",11,12,78,"Adelaide",10,8,68,"M.C.G.",10,2025,"Regular",11
+16706,2025-05-17,"R11","GWS",8,13,61,"Fremantle",13,17,95,"Sydney Showground",-34,2025,"Regular",11
+16707,2025-05-17,"R11","Port Adelaide",5,9,39,"Geelong",17,13,115,"Adelaide Oval",-76,2025,"Regular",11
+16708,2025-05-17,"R11","Footscray",18,19,127,"Essendon",5,6,36,"Docklands",91,2025,"Regular",11
+16709,2025-05-18,"R11","Richmond",11,8,74,"North Melbourne",12,6,78,"M.C.G.",-4,2025,"Regular",11
+16710,2025-05-18,"R11","Brisbane Lions",13,10,88,"Melbourne",14,15,99,"Gabba",-11,2025,"Regular",11
+16711,2025-05-18,"R11","West Coast",16,12,108,"St Kilda",12,8,80,"Perth Stadium",28,2025,"Regular",11
+16712,2025-05-22,"R12","Geelong",20,7,127,"Footscray",16,17,113,"Kardinia Park",14,2025,"Regular",12
+16713,2025-05-23,"R12","Essendon",11,15,81,"Richmond",8,10,58,"M.C.G.",23,2025,"Regular",12
+16714,2025-05-24,"R12","Carlton",12,10,82,"GWS",17,8,110,"Docklands",-28,2025,"Regular",12
+16715,2025-05-24,"R12","Hawthorn",8,12,60,"Brisbane Lions",14,9,93,"M.C.G.",-33,2025,"Regular",12
+16716,2025-05-24,"R12","North Melbourne",9,9,63,"Collingwood",15,18,108,"Docklands",-45,2025,"Regular",12
+16717,2025-05-24,"R12","Fremantle",15,10,100,"Port Adelaide",7,9,51,"Perth Stadium",49,2025,"Regular",12
+16718,2025-05-25,"R12","Adelaide",19,14,128,"West Coast",8,14,62,"Adelaide Oval",66,2025,"Regular",12
+16719,2025-05-25,"R12","Melbourne",19,17,131,"Sydney",12,6,78,"M.C.G.",53,2025,"Regular",12
+16720,2025-05-25,"R12","St Kilda",8,13,61,"Gold Coast",12,8,80,"Docklands",-19,2025,"Regular",12
+16721,2025-05-29,"R13","Brisbane Lions",13,12,90,"Essendon",11,6,72,"Gabba",18,2025,"Regular",13
+16722,2025-05-30,"R13","Collingwood",16,11,107,"Hawthorn",8,8,56,"M.C.G.",51,2025,"Regular",13
+16723,2025-05-31,"R13","Gold Coast",9,10,64,"Fremantle",11,9,75,"Carrara",-11,2025,"Regular",13
+16724,2025-05-31,"R13","GWS",12,8,80,"Richmond",10,17,77,"Sydney Showground",3,2025,"Regular",13
+16725,2025-05-31,"R13","Sydney",5,11,41,"Adelaide",21,5,131,"S.C.G.",-90,2025,"Regular",13
+16726,2025-06-01,"R13","Melbourne",7,21,63,"St Kilda",14,7,91,"Traeger Park",-28,2025,"Regular",13
+16727,2025-06-01,"R13","West Coast",11,7,73,"Geelong",17,14,116,"Perth Stadium",-43,2025,"Regular",13
+16728,2025-06-05,"R14","Footscray",8,11,59,"Hawthorn",12,9,81,"Docklands",-22,2025,"Regular",14
+16729,2025-06-06,"R14","Adelaide",10,8,68,"Brisbane Lions",8,15,63,"Adelaide Oval",5,2025,"Regular",14
+16730,2025-06-07,"R14","Richmond",4,12,36,"Sydney",11,14,80,"M.C.G.",-44,2025,"Regular",14
+16731,2025-06-07,"R14","Geelong",9,7,61,"Gold Coast",5,7,37,"Kardinia Park",24,2025,"Regular",14
+16732,2025-06-07,"R14","GWS",7,8,50,"Port Adelaide",9,12,66,"Manuka Oval",-16,2025,"Regular",14
+16733,2025-06-08,"R14","North Melbourne",9,8,62,"West Coast",6,16,52,"Hands Oval",10,2025,"Regular",14
+16734,2025-06-08,"R14","Carlton",11,12,78,"Essendon",11,4,70,"M.C.G.",8,2025,"Regular",14
+16735,2025-06-09,"R14","Melbourne",10,11,71,"Collingwood",11,6,72,"M.C.G.",-1,2025,"Regular",14
+16736,2025-06-12,"R15","St Kilda",8,12,60,"Footscray",20,12,132,"Docklands",-72,2025,"Regular",15
+16737,2025-06-13,"R15","Hawthorn",6,11,47,"Adelaide",5,14,44,"York Park",3,2025,"Regular",15
+16738,2025-06-14,"R15","Brisbane Lions",13,18,96,"GWS",17,5,107,"Gabba",-11,2025,"Regular",15
+16739,2025-06-14,"R15","Essendon",8,8,56,"Geelong",23,13,151,"M.C.G.",-95,2025,"Regular",15
+16740,2025-06-14,"R15","North Melbourne",10,7,67,"Fremantle",10,13,73,"Perth Stadium",-6,2025,"Regular",15
+16741,2025-06-15,"R15","Port Adelaide",14,9,93,"Melbourne",9,14,68,"Adelaide Oval",25,2025,"Regular",15
+16742,2025-06-15,"R15","West Coast",7,10,52,"Carlton",12,14,86,"Perth Stadium",-34,2025,"Regular",15
+16743,2025-06-19,"R16","Fremantle",16,8,104,"Essendon",9,9,63,"Perth Stadium",41,2025,"Regular",16
+16744,2025-06-20,"R16","Geelong",6,15,51,"Brisbane Lions",14,8,92,"Kardinia Park",-41,2025,"Regular",16
+16745,2025-06-21,"R16","Carlton",10,13,73,"North Melbourne",13,6,84,"M.C.G.",-11,2025,"Regular",16
+16746,2025-06-21,"R16","Port Adelaide",7,10,52,"Sydney",9,17,71,"Adelaide Oval",-19,2025,"Regular",16
+16747,2025-06-21,"R16","Collingwood",16,12,108,"St Kilda",11,8,74,"Docklands",34,2025,"Regular",16
+16748,2025-06-22,"R16","GWS",16,10,106,"Gold Coast",14,15,99,"Sydney Showground",7,2025,"Regular",16
+16749,2025-06-22,"R16","Footscray",21,9,135,"Richmond",8,8,56,"Docklands",79,2025,"Regular",16
+16750,2025-06-26,"R17","Port Adelaide",16,14,110,"Carlton",8,12,60,"Adelaide Oval",50,2025,"Regular",17
+16751,2025-06-27,"R17","Sydney",14,12,96,"Footscray",16,9,105,"S.C.G.",-9,2025,"Regular",17
+16752,2025-06-28,"R17","Gold Coast",15,14,104,"Melbourne",12,13,85,"Carrara",19,2025,"Regular",17
+16753,2025-06-28,"R17","Hawthorn",23,12,150,"North Melbourne",9,11,65,"York Park",85,2025,"Regular",17
+16754,2025-06-28,"R17","Collingwood",13,10,88,"West Coast",8,11,59,"Docklands",29,2025,"Regular",17
+16755,2025-06-29,"R17","Richmond",8,6,54,"Adelaide",18,14,122,"M.C.G.",-68,2025,"Regular",17
+16756,2025-06-29,"R17","Fremantle",11,15,81,"St Kilda",9,15,69,"Perth Stadium",12,2025,"Regular",17
+16757,2025-07-03,"R18","North Melbourne",13,7,85,"Footscray",20,14,134,"Docklands",-49,2025,"Regular",18
+16758,2025-07-04,"R18","Carlton",8,11,59,"Collingwood",17,13,115,"M.C.G.",-56,2025,"Regular",18
+16759,2025-07-04,"R18","West Coast",8,4,52,"GWS",16,15,111,"Perth Stadium",-59,2025,"Regular",18
+16760,2025-07-05,"R18","Essendon",11,8,74,"Gold Coast",18,7,115,"Docklands",-41,2025,"Regular",18
+16761,2025-07-05,"R18","Geelong",18,16,124,"Richmond",7,10,52,"Kardinia Park",72,2025,"Regular",18
+16762,2025-07-05,"R18","Brisbane Lions",18,12,120,"Port Adelaide",14,8,92,"Gabba",28,2025,"Regular",18
+16763,2025-07-05,"R18","St Kilda",10,14,74,"Hawthorn",14,10,94,"Docklands",-20,2025,"Regular",18
+16764,2025-07-06,"R18","Sydney",14,10,94,"Fremantle",12,11,83,"S.C.G.",11,2025,"Regular",18
+16765,2025-07-06,"R18","Adelaide",13,12,90,"Melbourne",11,11,77,"Adelaide Oval",13,2025,"Regular",18
+16766,2025-07-10,"R19","Carlton",9,12,66,"Brisbane Lions",15,13,103,"Docklands",-37,2025,"Regular",19
+16767,2025-07-11,"R19","Gold Coast",10,9,69,"Collingwood",8,15,63,"Carrara",6,2025,"Regular",19
+16768,2025-07-12,"R19","Footscray",15,8,98,"Adelaide",16,13,109,"Docklands",-11,2025,"Regular",19
+16769,2025-07-12,"R19","GWS",17,9,111,"Geelong",13,7,85,"Sydney Showground",26,2025,"Regular",19
+16770,2025-07-12,"R19","Richmond",6,10,46,"Essendon",4,13,37,"M.C.G.",9,2025,"Regular",19
+16771,2025-07-12,"R19","Fremantle",12,5,77,"Hawthorn",9,10,64,"Perth Stadium",13,2025,"Regular",19
+16772,2025-07-13,"R19","Melbourne",18,11,119,"North Melbourne",12,11,83,"M.C.G.",36,2025,"Regular",19
+16773,2025-07-13,"R19","St Kilda",13,9,87,"Sydney",14,8,92,"Docklands",-5,2025,"Regular",19
+16774,2025-07-13,"R19","Port Adelaide",12,15,87,"West Coast",9,7,61,"Adelaide Oval",26,2025,"Regular",19
+16775,2025-07-17,"R20","Essendon",7,14,56,"GWS",16,8,104,"Docklands",-48,2025,"Regular",20
+16776,2025-07-18,"R20","Brisbane Lions",12,14,86,"Footscray",12,4,76,"Gabba",10,2025,"Regular",20
+16777,2025-07-19,"R20","Hawthorn",13,9,87,"Port Adelaide",7,7,49,"York Park",38,2025,"Regular",20
+16778,2025-07-19,"R20","Sydney",12,12,84,"North Melbourne",7,11,53,"S.C.G.",31,2025,"Regular",20
+16779,2025-07-19,"R20","Carlton",12,6,78,"Melbourne",10,10,70,"M.C.G.",8,2025,"Regular",20
+16780,2025-07-19,"R20","West Coast",8,8,56,"Richmond",16,9,105,"Perth Stadium",-49,2025,"Regular",20
+16781,2025-07-20,"R20","Geelong",17,11,113,"St Kilda",12,10,82,"Kardinia Park",31,2025,"Regular",20
+16782,2025-07-20,"R20","Collingwood",11,12,78,"Fremantle",12,7,79,"M.C.G.",-1,2025,"Regular",20
+16783,2025-07-20,"R20","Adelaide",16,11,107,"Gold Coast",6,10,46,"Adelaide Oval",61,2025,"Regular",20
+16784,2025-07-24,"R21","Hawthorn",13,7,85,"Carlton",9,7,61,"M.C.G.",24,2025,"Regular",21
+16785,2025-07-25,"R21","Essendon",7,8,50,"Footscray",22,11,143,"Docklands",-93,2025,"Regular",21
+16786,2025-07-25,"R21","GWS",15,12,102,"Sydney",8,10,58,"Sydney Showground",44,2025,"Regular",21
+16787,2025-07-26,"R21","Gold Coast",20,10,130,"Brisbane Lions",9,10,64,"Carrara",66,2025,"Regular",21
+16788,2025-07-26,"R21","Fremantle",18,18,126,"West Coast",12,5,77,"Perth Stadium",49,2025,"Regular",21
+16789,2025-07-26,"R21","North Melbourne",7,7,49,"Geelong",22,18,150,"Docklands",-101,2025,"Regular",21
+16790,2025-07-26,"R21","Adelaide",20,13,133,"Port Adelaide",5,5,35,"Adelaide Oval",98,2025,"Regular",21
+16791,2025-07-27,"R21","Richmond",8,9,57,"Collingwood",13,15,93,"M.C.G.",-36,2025,"Regular",21
+16792,2025-07-27,"R21","St Kilda",15,6,96,"Melbourne",13,12,90,"Docklands",6,2025,"Regular",21
+16793,2025-07-31,"R22","Footscray",19,18,132,"GWS",6,8,44,"Docklands",88,2025,"Regular",22
+16794,2025-08-01,"R22","Adelaide",15,11,101,"Hawthorn",13,9,87,"Adelaide Oval",14,2025,"Regular",22
+16795,2025-08-02,"R22","Melbourne",21,13,139,"West Coast",8,8,56,"Docklands",83,2025,"Regular",22
+16796,2025-08-02,"R22","Gold Coast",16,11,107,"Richmond",2,11,23,"Carrara",84,2025,"Regular",22
+16797,2025-08-02,"R22","Sydney",9,14,68,"Essendon",7,12,54,"S.C.G.",14,2025,"Regular",22
+16798,2025-08-02,"R22","Collingwood",10,5,65,"Brisbane Lions",14,8,92,"M.C.G.",-27,2025,"Regular",22
+16799,2025-08-03,"R22","St Kilda",11,12,78,"North Melbourne",10,9,69,"Docklands",9,2025,"Regular",22
+16800,2025-08-03,"R22","Geelong",23,15,153,"Port Adelaide",9,11,65,"Kardinia Park",88,2025,"Regular",22
+16801,2025-08-03,"R22","Fremantle",15,4,94,"Carlton",10,7,67,"Perth Stadium",27,2025,"Regular",22
+16802,2025-08-07,"R23","Hawthorn",17,8,110,"Collingwood",6,10,46,"M.C.G.",64,2025,"Regular",23
+16803,2025-08-08,"R23","Geelong",15,19,109,"Essendon",10,5,65,"Kardinia Park",44,2025,"Regular",23
+16804,2025-08-09,"R23","Richmond",7,10,52,"St Kilda",8,8,56,"M.C.G.",-4,2025,"Regular",23
+16805,2025-08-09,"R23","Brisbane Lions",13,12,90,"Sydney",13,14,92,"Gabba",-2,2025,"Regular",23
+16806,2025-08-09,"R23","Carlton",11,8,74,"Gold Coast",13,15,93,"Docklands",-19,2025,"Regular",23
+16807,2025-08-09,"R23","Port Adelaide",13,8,86,"Fremantle",13,14,92,"Adelaide Oval",-6,2025,"Regular",23
+16808,2025-08-10,"R23","GWS",20,13,133,"North Melbourne",12,7,79,"Manuka Oval",54,2025,"Regular",23
+16809,2025-08-10,"R23","Melbourne",15,9,99,"Footscray",15,15,105,"M.C.G.",-6,2025,"Regular",23
+16810,2025-08-10,"R23","West Coast",12,6,78,"Adelaide",13,9,87,"Perth Stadium",-9,2025,"Regular",23
+16811,2025-08-15,"R24","Essendon",11,9,75,"St Kilda",11,11,77,"Docklands",-2,2025,"Regular",24
+16812,2025-08-15,"R24","Fremantle",5,14,44,"Brisbane Lions",15,11,101,"Perth Stadium",-57,2025,"Regular",24
+16813,2025-08-16,"R24","Gold Coast",11,10,76,"GWS",17,9,111,"Carrara",-35,2025,"Regular",24
+16814,2025-08-16,"R24","Carlton",18,10,118,"Port Adelaide",9,10,64,"Docklands",54,2025,"Regular",24
+16815,2025-08-16,"R24","Hawthorn",13,14,92,"Melbourne",8,8,56,"M.C.G.",36,2025,"Regular",24
+16816,2025-08-16,"R24","Adelaide",9,5,59,"Collingwood",8,8,56,"Adelaide Oval",3,2025,"Regular",24
+16817,2025-08-17,"R24","North Melbourne",20,15,135,"Richmond",13,9,87,"Bellerive Oval",48,2025,"Regular",24
+16818,2025-08-17,"R24","Sydney",10,8,68,"Geelong",16,15,111,"S.C.G.",-43,2025,"Regular",24
+16819,2025-08-17,"R24","Footscray",19,12,126,"West Coast",4,8,32,"Docklands",94,2025,"Regular",24
+16820,2025-08-21,"R25","Essendon",8,8,56,"Carlton",13,12,90,"M.C.G.",-34,2025,"Regular",25
+16821,2025-08-22,"R25","Collingwood",11,16,82,"Melbourne",11,10,76,"M.C.G.",6,2025,"Regular",25
+16822,2025-08-22,"R25","Port Adelaide",10,11,71,"Gold Coast",9,13,67,"Adelaide Oval",4,2025,"Regular",25
+16823,2025-08-23,"R25","North Melbourne",15,10,100,"Adelaide",17,11,113,"Docklands",-13,2025,"Regular",25
+16824,2025-08-23,"R25","Richmond",9,10,64,"Geelong",14,19,103,"M.C.G.",-39,2025,"Regular",25
+16825,2025-08-23,"R25","West Coast",7,9,51,"Sydney",18,10,118,"Perth Stadium",-67,2025,"Regular",25
+16826,2025-08-24,"R25","GWS",15,14,104,"St Kilda",14,9,93,"Sydney Showground",11,2025,"Regular",25
+16827,2025-08-24,"R25","Footscray",14,13,97,"Fremantle",17,10,112,"Docklands",-15,2025,"Regular",25
+16828,2025-08-24,"R25","Brisbane Lions",11,23,89,"Hawthorn",11,13,79,"Gabba",10,2025,"Regular",25
+16829,2025-08-27,"R1","Gold Coast",23,15,153,"Essendon",8,10,58,"Carrara",95,2025,"Regular",1
+16830,2025-09-04,"QF","Adelaide",8,7,55,"Collingwood",11,13,79,"Adelaide Oval",-24,2025,"Finals",26
+16831,2025-09-05,"QF","Geelong",16,16,112,"Brisbane Lions",11,8,74,"M.C.G.",38,2025,"Finals",26
+16832,2025-09-06,"EF","GWS",13,10,88,"Hawthorn",16,11,107,"Sydney Showground",-19,2025,"Finals",26
+16833,2025-09-06,"EF","Fremantle",12,7,79,"Gold Coast",11,14,80,"Perth Stadium",-1,2025,"Finals",26
+16834,2025-09-12,"SF","Adelaide",10,7,67,"Hawthorn",14,17,101,"Adelaide Oval",-34,2025,"Finals",27
+16835,2025-09-13,"SF","Brisbane Lions",14,16,100,"Gold Coast",6,11,47,"Gabba",53,2025,"Finals",27
+16836,2025-09-19,"PF","Geelong",17,13,115,"Hawthorn",13,7,85,"M.C.G.",30,2025,"Finals",28
+16837,2025-09-20,"PF","Collingwood",11,5,71,"Brisbane Lions",15,10,100,"M.C.G.",-29,2025,"Finals",28
+16838,2025-09-27,"GF","Geelong",11,9,75,"Brisbane Lions",18,14,122,"M.C.G.",-47,2025,"Finals",29

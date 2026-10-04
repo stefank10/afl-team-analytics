@@ -1,0 +1,163 @@
+"Game","Date","Round","Home.Team","Home.Goals","Home.Behinds","Home.Points","Away.Team","Away.Goals","Away.Behinds","Away.Points","Venue","Margin","Season","Round.Type","Round.Number"
+15615,2020-03-19,"R1","Richmond",16,9,105,"Carlton",12,9,81,"M.C.G.",24,2020,"Regular",1
+15616,2020-03-20,"R1","Footscray",5,4,34,"Collingwood",13,8,86,"Docklands",-52,2020,"Regular",1
+15617,2020-03-21,"R1","Essendon",9,9,63,"Fremantle",8,9,57,"Docklands",6,2020,"Regular",1
+15618,2020-03-21,"R1","Adelaide",11,5,71,"Sydney",11,8,74,"Adelaide Oval",-3,2020,"Regular",1
+15619,2020-03-21,"R1","GWS",17,3,105,"Geelong",11,7,73,"Sydney Showground",32,2020,"Regular",1
+15620,2020-03-21,"R1","Gold Coast",4,5,29,"Port Adelaide",10,16,76,"Carrara",-47,2020,"Regular",1
+15621,2020-03-22,"R1","North Melbourne",8,8,56,"St Kilda",7,12,54,"Docklands",2,2020,"Regular",1
+15622,2020-03-22,"R1","Hawthorn",14,6,90,"Brisbane Lions",9,8,62,"M.C.G.",28,2020,"Regular",1
+15623,2020-03-22,"R1","West Coast",12,6,78,"Melbourne",7,9,51,"Perth Stadium",27,2020,"Regular",1
+15624,2020-06-11,"R2","Collingwood",5,6,36,"Richmond",5,6,36,"M.C.G.",0,2020,"Regular",2
+15625,2020-06-12,"R2","Geelong",17,6,108,"Hawthorn",7,5,47,"Kardinia Park",61,2020,"Regular",2
+15626,2020-06-13,"R2","Brisbane Lions",12,9,81,"Fremantle",10,9,69,"Gabba",12,2020,"Regular",2
+15627,2020-06-13,"R2","Carlton",7,11,53,"Melbourne",8,6,54,"Docklands",-1,2020,"Regular",2
+15628,2020-06-13,"R2","Port Adelaide",17,8,110,"Adelaide",5,5,35,"Adelaide Oval",75,2020,"Regular",2
+15629,2020-06-13,"R2","Gold Coast",14,6,90,"West Coast",6,10,46,"Carrara",44,2020,"Regular",2
+15630,2020-06-14,"R2","GWS",8,12,60,"North Melbourne",12,8,80,"Sydney Showground",-20,2020,"Regular",2
+15631,2020-06-14,"R2","Sydney",11,7,73,"Essendon",12,7,79,"S.C.G.",-6,2020,"Regular",2
+15632,2020-06-14,"R2","St Kilda",14,4,88,"Footscray",7,7,49,"Docklands",39,2020,"Regular",2
+15633,2020-06-18,"R3","Richmond",5,9,39,"Hawthorn",11,5,71,"M.C.G.",-32,2020,"Regular",3
+15634,2020-06-19,"R3","Footscray",8,9,57,"GWS",4,9,33,"Docklands",24,2020,"Regular",3
+15635,2020-06-20,"R3","North Melbourne",8,12,60,"Sydney",10,11,71,"Docklands",-11,2020,"Regular",3
+15636,2020-06-20,"R3","Collingwood",12,9,81,"St Kilda",5,7,37,"M.C.G.",44,2020,"Regular",3
+15637,2020-06-20,"R3","Geelong",11,11,77,"Carlton",12,7,79,"Kardinia Park",-2,2020,"Regular",3
+15638,2020-06-20,"R3","Brisbane Lions",10,14,74,"West Coast",6,8,44,"Gabba",30,2020,"Regular",3
+15639,2020-06-21,"R3","Gold Coast",12,10,82,"Adelaide",4,5,29,"Carrara",53,2020,"Regular",3
+15640,2020-06-21,"R3","Fremantle",6,5,41,"Port Adelaide",10,10,70,"Carrara",-29,2020,"Regular",3
+15641,2020-06-25,"R4","Sydney",5,9,39,"Footscray",10,7,67,"S.C.G.",-28,2020,"Regular",4
+15642,2020-06-26,"R4","GWS",10,6,66,"Collingwood",9,10,64,"Sydney Showground",2,2020,"Regular",4
+15643,2020-06-27,"R4","Port Adelaide",13,11,89,"West Coast",6,5,41,"Carrara",48,2020,"Regular",4
+15644,2020-06-27,"R4","St Kilda",15,3,93,"Richmond",10,7,67,"Docklands",26,2020,"Regular",4
+15645,2020-06-27,"R4","Essendon",8,3,51,"Carlton",7,10,52,"M.C.G.",-1,2020,"Regular",4
+15646,2020-06-27,"R4","Gold Coast",10,4,64,"Fremantle",8,3,51,"Carrara",13,2020,"Regular",4
+15647,2020-06-28,"R4","Brisbane Lions",10,23,83,"Adelaide",7,4,46,"Gabba",37,2020,"Regular",4
+15648,2020-06-28,"R4","Melbourne",6,8,44,"Geelong",7,5,47,"M.C.G.",-3,2020,"Regular",4
+15649,2020-06-28,"R4","Hawthorn",8,10,58,"North Melbourne",8,6,54,"Docklands",4,2020,"Regular",4
+15650,2020-07-02,"R5","Carlton",8,7,55,"St Kilda",11,7,73,"Docklands",-18,2020,"Regular",5
+15651,2020-07-03,"R5","Collingwood",7,6,48,"Essendon",10,3,63,"M.C.G.",-15,2020,"Regular",5
+15652,2020-07-04,"R5","West Coast",11,11,77,"Sydney",6,7,43,"Carrara",34,2020,"Regular",5
+15653,2020-07-04,"R5","Geelong",13,11,89,"Gold Coast",8,4,52,"Kardinia Park",37,2020,"Regular",5
+15654,2020-07-04,"R5","Footscray",13,9,87,"North Melbourne",5,8,38,"Docklands",49,2020,"Regular",5
+15655,2020-07-04,"R5","Brisbane Lions",12,13,85,"Port Adelaide",6,12,48,"Gabba",37,2020,"Regular",5
+15656,2020-07-05,"R5","Adelaide",4,10,34,"Fremantle",8,6,54,"Carrara",-20,2020,"Regular",5
+15657,2020-07-05,"R5","Melbourne",8,4,52,"Richmond",12,7,79,"M.C.G.",-27,2020,"Regular",5
+15658,2020-07-05,"R5","GWS",13,5,83,"Hawthorn",7,7,49,"Sydney Showground",34,2020,"Regular",5
+15659,2020-07-09,"R6","Geelong",11,7,73,"Brisbane Lions",6,10,46,"S.C.G.",27,2020,"Regular",6
+15660,2020-07-10,"R6","Collingwood",8,11,59,"Hawthorn",3,9,27,"Sydney Showground",32,2020,"Regular",6
+15661,2020-07-11,"R6","Fremantle",12,7,79,"St Kilda",11,7,73,"Carrara",6,2020,"Regular",6
+15662,2020-07-11,"R6","West Coast",10,7,67,"Adelaide",5,4,34,"Gabba",33,2020,"Regular",6
+15663,2020-07-11,"R6","Melbourne",12,8,80,"Gold Coast",9,9,63,"Sydney Showground",17,2020,"Regular",6
+15664,2020-07-11,"R6","Essendon",9,13,67,"North Melbourne",7,11,53,"Carrara",14,2020,"Regular",6
+15665,2020-07-12,"R6","Port Adelaide",9,9,63,"GWS",6,10,46,"Carrara",17,2020,"Regular",6
+15666,2020-07-12,"R6","Richmond",4,10,34,"Sydney",3,8,26,"Gabba",8,2020,"Regular",6
+15667,2020-07-12,"R6","Carlton",16,7,103,"Footscray",7,9,51,"Carrara",52,2020,"Regular",6
+15668,2020-07-16,"R7","Geelong",5,5,35,"Collingwood",8,9,57,"Perth Stadium",-22,2020,"Regular",7
+15669,2020-07-17,"R7","Essendon",7,9,51,"Footscray",14,9,93,"Carrara",-42,2020,"Regular",7
+15670,2020-07-18,"R7","GWS",10,8,68,"Brisbane Lions",13,10,88,"Sydney Showground",-20,2020,"Regular",7
+15671,2020-07-18,"R7","Sydney",9,6,60,"Gold Coast",13,14,92,"S.C.G.",-32,2020,"Regular",7
+15672,2020-07-18,"R7","Richmond",11,11,77,"North Melbourne",2,11,23,"Carrara",54,2020,"Regular",7
+15673,2020-07-19,"R7","Carlton",9,7,61,"Port Adelaide",9,10,64,"Gabba",-3,2020,"Regular",7
+15674,2020-07-19,"R7","Hawthorn",7,6,48,"Melbourne",14,7,91,"Sydney Showground",-43,2020,"Regular",7
+15675,2020-07-19,"R7","Fremantle",5,2,32,"West Coast",9,8,62,"Perth Stadium",-30,2020,"Regular",7
+15676,2020-07-20,"R7","Adelaide",8,7,55,"St Kilda",12,6,78,"Adelaide Oval",-23,2020,"Regular",7
+15677,2020-07-23,"R8","Gold Coast",6,10,46,"Footscray",7,9,51,"Carrara",-5,2020,"Regular",8
+15678,2020-07-24,"R8","GWS",9,8,62,"Richmond",6,14,50,"Sydney Showground",12,2020,"Regular",8
+15679,2020-07-25,"R8","North Melbourne",9,3,57,"Carlton",9,10,64,"Gabba",-7,2020,"Regular",8
+15680,2020-07-25,"R8","Sydney",9,6,60,"Hawthorn",7,11,53,"S.C.G.",7,2020,"Regular",8
+15681,2020-07-25,"R8","Port Adelaide",6,8,44,"St Kilda",12,1,73,"Adelaide Oval",-29,2020,"Regular",8
+15682,2020-07-26,"R8","Adelaide",8,11,59,"Essendon",9,8,62,"Adelaide Oval",-3,2020,"Regular",8
+15683,2020-07-26,"R8","West Coast",18,3,111,"Collingwood",6,9,45,"Perth Stadium",66,2020,"Regular",8
+15684,2020-07-26,"R8","Melbourne",7,7,49,"Brisbane Lions",7,11,53,"Carrara",-4,2020,"Regular",8
+15685,2020-07-27,"R8","Fremantle",2,4,16,"Geelong",6,12,48,"Perth Stadium",-32,2020,"Regular",8
+15686,2020-07-29,"R9","Footscray",7,7,49,"Richmond",13,12,90,"Carrara",-41,2020,"Regular",9
+15687,2020-07-30,"R9","Melbourne",4,8,32,"Port Adelaide",12,11,83,"Gabba",-51,2020,"Regular",9
+15688,2020-07-31,"R9","Carlton",9,4,58,"Hawthorn",14,5,89,"Perth Stadium",-31,2020,"Regular",9
+15689,2020-07-31,"R9","Essendon",3,10,28,"Brisbane Lions",14,7,91,"Carrara",-63,2020,"Regular",9
+15690,2020-08-01,"R9","North Melbourne",19,5,119,"Adelaide",7,8,50,"Carrara",69,2020,"Regular",9
+15691,2020-08-01,"R9","St Kilda",15,11,101,"Sydney",6,12,48,"Gabba",53,2020,"Regular",9
+15692,2020-08-01,"R9","West Coast",11,7,73,"Geelong",10,4,64,"Perth Stadium",9,2020,"Regular",9
+15693,2020-08-02,"R9","Gold Coast",4,11,35,"GWS",9,7,61,"Carrara",-26,2020,"Regular",9
+15694,2020-08-02,"R9","Fremantle",10,1,61,"Collingwood",7,7,49,"Perth Stadium",12,2020,"Regular",9
+15695,2020-08-03,"R10","Port Adelaide",8,7,55,"Footscray",5,12,42,"Adelaide Oval",13,2020,"Regular",10
+15696,2020-08-04,"R10","Richmond",12,10,82,"Brisbane Lions",4,17,41,"Carrara",41,2020,"Regular",10
+15697,2020-08-05,"R10","Geelong",13,12,90,"North Melbourne",9,3,57,"Gabba",33,2020,"Regular",10
+15698,2020-08-05,"R10","Adelaide",5,7,37,"Melbourne",13,10,88,"Adelaide Oval",-51,2020,"Regular",10
+15699,2020-08-06,"R10","Collingwood",6,14,50,"Sydney",6,5,41,"Gabba",9,2020,"Regular",10
+15700,2020-08-06,"R10","Gold Coast",11,8,74,"St Kilda",12,6,78,"Carrara",-4,2020,"Regular",10
+15701,2020-08-07,"R10","Essendon",8,7,55,"GWS",8,11,59,"Carrara",-4,2020,"Regular",10
+15702,2020-08-08,"R11","Port Adelaide",13,15,93,"Richmond",11,6,72,"Adelaide Oval",21,2020,"Regular",11
+15703,2020-08-08,"R11","Brisbane Lions",14,12,96,"Footscray",11,6,72,"Gabba",24,2020,"Regular",11
+15704,2020-08-09,"R11","West Coast",11,6,72,"Carlton",7,8,50,"Perth Stadium",22,2020,"Regular",11
+15705,2020-08-09,"R11","Melbourne",13,14,92,"North Melbourne",5,5,35,"Adelaide Oval",57,2020,"Regular",11
+15706,2020-08-10,"R11","St Kilda",4,10,34,"Geelong",14,9,93,"Gabba",-59,2020,"Regular",11
+15707,2020-08-10,"R11","Fremantle",7,6,48,"Hawthorn",4,8,32,"Perth Stadium",16,2020,"Regular",11
+15708,2020-08-11,"R11","Adelaide",5,8,38,"Collingwood",10,2,62,"Adelaide Oval",-24,2020,"Regular",11
+15709,2020-08-12,"R11","Gold Coast",11,7,73,"Essendon",11,7,73,"Carrara",0,2020,"Regular",11
+15710,2020-08-13,"R12","Sydney",10,6,66,"GWS",3,7,25,"Perth Stadium",41,2020,"Regular",12
+15711,2020-08-14,"R12","Geelong",14,7,91,"Port Adelaide",4,7,31,"Carrara",60,2020,"Regular",12
+15712,2020-08-15,"R12","North Melbourne",8,4,52,"Brisbane Lions",7,11,53,"Carrara",-1,2020,"Regular",12
+15713,2020-08-15,"R12","Melbourne",16,4,100,"Collingwood",6,8,44,"Gabba",56,2020,"Regular",12
+15714,2020-08-15,"R12","Fremantle",5,6,36,"Carlton",5,10,40,"Perth Stadium",-4,2020,"Regular",12
+15715,2020-08-16,"R12","Footscray",16,15,111,"Adelaide",8,6,54,"Carrara",57,2020,"Regular",12
+15716,2020-08-16,"R12","St Kilda",10,8,68,"Essendon",5,3,33,"Gabba",35,2020,"Regular",12
+15717,2020-08-16,"R12","West Coast",12,9,81,"Hawthorn",7,7,49,"Perth Stadium",32,2020,"Regular",12
+15718,2020-08-17,"R12","Richmond",8,5,53,"Gold Coast",4,8,32,"Gabba",21,2020,"Regular",12
+15719,2020-08-21,"R13","Gold Coast",4,3,27,"Carlton",7,18,60,"Marrara Oval",-33,2020,"Regular",13
+15720,2020-08-22,"R13","Footscray",12,8,80,"Melbourne",7,10,52,"Carrara",28,2020,"Regular",13
+15721,2020-08-22,"R13","Port Adelaide",9,14,68,"Hawthorn",9,4,58,"Adelaide Oval",10,2020,"Regular",13
+15722,2020-08-22,"R13","Essendon",10,1,61,"Richmond",10,13,73,"Marrara Oval",-12,2020,"Regular",13
+15723,2020-08-22,"R13","Fremantle",7,8,50,"Sydney",2,7,19,"Perth Stadium",31,2020,"Regular",13
+15724,2020-08-23,"R13","Adelaide",5,7,37,"Geelong",9,11,65,"Adelaide Oval",-28,2020,"Regular",13
+15725,2020-08-23,"R13","Brisbane Lions",6,14,50,"St Kilda",7,6,48,"Gabba",2,2020,"Regular",13
+15726,2020-08-23,"R13","West Coast",9,7,61,"GWS",7,7,49,"Perth Stadium",12,2020,"Regular",13
+15727,2020-08-24,"R13","Collingwood",10,5,65,"North Melbourne",5,5,35,"Gabba",30,2020,"Regular",13
+15728,2020-08-27,"R14","Hawthorn",10,11,71,"Essendon",13,9,87,"Adelaide Oval",-16,2020,"Regular",14
+15729,2020-08-27,"R14","Richmond",14,4,88,"West Coast",9,7,61,"Carrara",27,2020,"Regular",14
+15730,2020-08-28,"R14","Footscray",9,7,61,"Geelong",10,12,72,"Carrara",-11,2020,"Regular",14
+15731,2020-08-29,"R14","Port Adelaide",11,7,73,"Sydney",7,5,47,"Adelaide Oval",26,2020,"Regular",14
+15732,2020-08-29,"R14","Fremantle",8,5,53,"GWS",14,7,91,"Perth Stadium",-38,2020,"Regular",14
+15733,2020-08-29,"R14","Melbourne",8,4,52,"St Kilda",7,7,49,"Traeger Park",3,2020,"Regular",14
+15734,2020-08-30,"R14","Carlton",7,6,48,"Collingwood",10,12,72,"Gabba",-24,2020,"Regular",14
+15735,2020-08-30,"R14","Gold Coast",12,19,91,"North Melbourne",4,4,28,"Carrara",63,2020,"Regular",14
+15736,2020-09-01,"R15","Hawthorn",7,6,48,"Adelaide",12,11,83,"Adelaide Oval",-35,2020,"Regular",15
+15737,2020-09-01,"R15","West Coast",9,6,60,"Essendon",6,9,45,"Gabba",15,2020,"Regular",15
+15738,2020-09-02,"R15","Richmond",8,8,56,"Fremantle",4,5,29,"Carrara",27,2020,"Regular",15
+15739,2020-09-03,"R15","Sydney",10,7,67,"Melbourne",6,10,46,"Cazaly's Stadium",21,2020,"Regular",15
+15740,2020-09-03,"R15","GWS",6,12,48,"Carlton",5,9,39,"Carrara",9,2020,"Regular",15
+15741,2020-09-04,"R15","Brisbane Lions",6,6,42,"Collingwood",5,4,34,"Gabba",8,2020,"Regular",15
+15742,2020-09-05,"R16","North Melbourne",6,6,42,"Port Adelaide",11,12,78,"Carrara",-36,2020,"Regular",16
+15743,2020-09-06,"R16","St Kilda",11,14,80,"Hawthorn",9,12,66,"Carrara",14,2020,"Regular",16
+15744,2020-09-06,"R16","Geelong",17,6,108,"Essendon",5,12,42,"Gabba",66,2020,"Regular",16
+15745,2020-09-06,"R16","Footscray",6,13,49,"West Coast",7,5,47,"Carrara",2,2020,"Regular",16
+15746,2020-09-07,"R16","Melbourne",4,9,33,"Fremantle",6,11,47,"Cazaly's Stadium",-14,2020,"Regular",16
+15747,2020-09-08,"R16","Adelaide",8,11,59,"GWS",7,5,47,"Adelaide Oval",12,2020,"Regular",16
+15748,2020-09-08,"R16","Carlton",8,9,57,"Sydney",8,4,52,"Carrara",5,2020,"Regular",16
+15749,2020-09-09,"R16","Brisbane Lions",13,10,88,"Gold Coast",6,7,43,"Gabba",45,2020,"Regular",16
+15750,2020-09-10,"R17","St Kilda",6,14,50,"West Coast",9,11,65,"Gabba",-15,2020,"Regular",17
+15751,2020-09-11,"R17","Geelong",4,7,31,"Richmond",7,15,57,"Carrara",-26,2020,"Regular",17
+15752,2020-09-12,"R17","North Melbourne",5,5,35,"Fremantle",15,9,99,"Carrara",-64,2020,"Regular",17
+15753,2020-09-12,"R17","Port Adelaide",11,13,79,"Essendon",4,5,29,"Adelaide Oval",50,2020,"Regular",17
+15754,2020-09-12,"R17","GWS",11,8,74,"Melbourne",12,7,79,"Gabba",-5,2020,"Regular",17
+15755,2020-09-13,"R17","Carlton",8,8,56,"Adelaide",10,12,72,"Carrara",-16,2020,"Regular",17
+15756,2020-09-13,"R17","Hawthorn",6,4,40,"Footscray",11,10,76,"Adelaide Oval",-36,2020,"Regular",17
+15757,2020-09-13,"R17","Sydney",6,5,41,"Brisbane Lions",11,7,73,"Cazaly's Stadium",-32,2020,"Regular",17
+15758,2020-09-14,"R17","Collingwood",10,8,68,"Gold Coast",6,10,46,"Gabba",22,2020,"Regular",17
+15759,2020-09-17,"R18","North Melbourne",4,10,34,"West Coast",7,7,49,"Carrara",-15,2020,"Regular",18
+15760,2020-09-18,"R18","St Kilda",12,10,82,"GWS",3,12,30,"Gabba",52,2020,"Regular",18
+15761,2020-09-19,"R18","Essendon",7,7,49,"Melbourne",10,8,68,"Carrara",-19,2020,"Regular",18
+15762,2020-09-19,"R18","Adelaide",4,9,33,"Richmond",12,5,77,"Adelaide Oval",-44,2020,"Regular",18
+15763,2020-09-19,"R18","Brisbane Lions",11,12,78,"Carlton",10,1,61,"Gabba",17,2020,"Regular",18
+15764,2020-09-20,"R18","Hawthorn",17,6,108,"Gold Coast",8,9,57,"Adelaide Oval",51,2020,"Regular",18
+15765,2020-09-20,"R18","Sydney",9,9,63,"Geelong",10,9,69,"Carrara",-6,2020,"Regular",18
+15766,2020-09-20,"R18","Fremantle",6,8,44,"Footscray",11,8,74,"Cazaly's Stadium",-30,2020,"Regular",18
+15767,2020-09-21,"R18","Collingwood",7,3,45,"Port Adelaide",9,7,61,"Gabba",-16,2020,"Regular",18
+15768,2020-10-01,"QF","Port Adelaide",9,4,58,"Geelong",5,12,42,"Adelaide Oval",16,2020,"Finals",19
+15769,2020-10-02,"QF","Brisbane Lions",10,9,69,"Richmond",8,6,54,"Gabba",15,2020,"Finals",19
+15770,2020-10-03,"EF","St Kilda",10,7,67,"Footscray",9,10,64,"Gabba",3,2020,"Finals",19
+15771,2020-10-03,"EF","West Coast",11,9,75,"Collingwood",12,4,76,"Perth Stadium",-1,2020,"Finals",19
+15772,2020-10-09,"SF","Richmond",12,8,80,"St Kilda",6,13,49,"Carrara",31,2020,"Finals",20
+15773,2020-10-10,"SF","Geelong",15,10,100,"Collingwood",5,2,32,"Gabba",68,2020,"Finals",20
+15774,2020-10-16,"PF","Port Adelaide",6,4,40,"Richmond",6,10,46,"Adelaide Oval",-6,2020,"Finals",21
+15775,2020-10-17,"PF","Brisbane Lions",6,6,42,"Geelong",11,16,82,"Gabba",-40,2020,"Finals",21
+15776,2020-10-24,"GF","Richmond",12,9,81,"Geelong",7,8,50,"Gabba",31,2020,"Finals",22
