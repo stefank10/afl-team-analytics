@@ -1,0 +1,12 @@
+name: afl-team-analytics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - jupyterlab
+  - pytest
