@@ -128,11 +128,3 @@ Eight style ratios per club (kick share, uncontested share of possessions, marks
 
 Run: `python -m src.style_map` (ratios, scores, loadings and the indexed trends in `outputs/`).
 
-## Status
-
-- [x] Repository and data pipeline set up
-- [x] Tidy team-match table + integrity tests (8 checks against official results)
-- [x] Stat reliability
-- [x] Team style map and competition shift
-- [x] Margin model (time-based split, two baselines, leakage test)
-- [x] Coach summary
