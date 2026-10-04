@@ -81,7 +81,7 @@ A ridge regression on home-minus-away stat differentials, trained on 2019–2025
 | Ridge, all process stats (comparison) | 17.4 | 0.72 |
 | **Ridge, interpretable set (main model)** | **19.3** | **0.65** |
 
-**Why the main model isn't the most accurate one.** Adding kicks, handballs and marks cuts the error by about 2 points, but those stats overlap with possessions, so their coefficients flip sign and become unreadable (kicks strongly positive, uncontested possessions strongly negative). A model coaches can't interpret won't be trusted, so the interpretable set is the main model and the fuller one is reported for comparison.
+**Why I didn't use the most accurate model.** I could make the model about 2 points more accurate by adding kicks, handballs and marks. The trouble is those stats largely count the same thing as possessions (kicks plus handballs is roughly every possession, and most marks are uncontested possessions). When a model is given the same information twice, it splits the credit between the two in strange ways. In this case it said kicks were hugely valuable and uncontested possessions were hugely costly, which makes no football sense. A coach would rightly stop trusting the model at that point. So the main model is the slightly less accurate one whose numbers all make sense, and the more accurate version is shown alongside it for comparison.
 
 This model is **descriptive**: it explains a margin once you know how the game played out. It is not a pre-game prediction.
 
