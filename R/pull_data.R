@@ -5,7 +5,9 @@
 # Why R for this step? fitzRoy is the best-maintained AFL data package and is R-only.
 # Everything after the raw pull (cleaning, modelling, charts) is done in Python.
 
-if (!requireNamespace("fitzRoy", quietly = TRUE)) install.packages("fitzRoy")
+if (!requireNamespace("fitzRoy", quietly = TRUE)) {
+  install.packages("fitzRoy", repos = "https://cloud.r-project.org")
+}
 library(fitzRoy)
 
 seasons <- 2019:2026
