@@ -1,0 +1,19 @@
+test_season,group,model,n,mae
+2024,All players,Same as last season,451,1.145
+2024,All players,Last season + typical age change,451,1.104
+2024,All players,Development model,451,1.103
+2024,Under 23,Same as last season,95,1.257
+2024,Under 23,Last season + typical age change,95,1.162
+2024,Under 23,Development model,95,1.152
+2025,All players,Same as last season,451,1.099
+2025,All players,Last season + typical age change,451,1.089
+2025,All players,Development model,451,1.131
+2025,Under 23,Same as last season,105,1.188
+2025,Under 23,Last season + typical age change,105,1.218
+2025,Under 23,Development model,105,1.279
+2026,All players,Same as last season,455,1.105
+2026,All players,Last season + typical age change,455,1.087
+2026,All players,Development model,455,1.015
+2026,Under 23,Same as last season,108,1.257
+2026,Under 23,Last season + typical age change,108,1.176
+2026,Under 23,Development model,108,1.075

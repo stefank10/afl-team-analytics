@@ -20,6 +20,8 @@ Written by Stefan Karydis — sport scientist and football data analyst.
 1. **Which team statistics are signal, not noise?** Split-half reliability of team stats: which ones are stable team traits and which mostly bounce around week to week.
 2. **How do teams play?** A style map of all 18 clubs using PCA, and how the competition has shifted since 2019.
 3. **What explains the margin?** A regularised regression trained on 2019–2025 and tested on the 2026 season, compared against a simple baseline.
+4. **Who plays like whom?** Eight player roles found from what players actually do, and a similarity finder for recruiting.
+5. **How do players develop?** A mixed-effects development curve and a breakout watchlist of under-23s, backtested against simple baselines.
 
 Each section ends with a summary example for coaches.
 
@@ -68,6 +70,8 @@ pytest
 python -m src.reliability
 python -m src.margin_model
 python -m src.style_map
+python -m src.player_roles
+python -m src.development
 ```
 
 ## How I used an AI coding agent
@@ -127,4 +131,42 @@ Eight style ratios per club (kick share, uncontested share of possessions, marks
 **How the competition has moved since 2019:** bounces per 100 disposals are up 49%, the contested share of marks is down 21%, one percenters per opposition inside 50 are down 19%, and marks inside 50 per inside 50 are up 9%. In short: more running and uncontested ball, less contest in the air. Caveats: 2020's shortened, hub-based season is an outlier, and part of a change this large in bounces could reflect how they are recorded rather than how the game is played.
 
 Run: `python -m src.style_map` (ratios, scores, loadings and the indexed trends in `outputs/`).
+
+### 4. Who plays like whom?
+
+![Eight player roles](outputs/figures/player_roles.png)
+
+AFL Tables doesn't record positions, so roles come from what players do. Each player-season (minimum 8 games) is described by 15 per-game rates, adjusted for time on ground so a sub or a rotated midfielder isn't judged on raw counts, and standardised within season. K-means groups them into eight roles, named by a fixed rule from each group's standout stat (hit-outs for rucks, marks inside 50 for key forwards, and so on), not by hand. For every 2026 player, cosine similarity finds the ten most similar players and the shared strengths behind each match.
+
+**Validation:** players keep the same role from one season to the next 73% of the time, against 13% by chance. Obvious cases land where they should (rucks with rucks, key forwards with key forwards).
+
+**Honest limits:** the separation between groups is modest (silhouette 0.20) because players sit on a continuum, not in neat boxes, and "outside midfielder" is the least distinct role. Box scores miss pressure, positioning and kicking quality.
+
+**For coaches and recruiters:** type in a player you need to replace and get a ranked shortlist with reasons, as a starting point for vision, not a substitute for it. The interactive finder is on [my portfolio](https://stefank10.github.io/players.html).
+
+Run: `python -m src.player_roles` (roles, profiles and the web tool's data in `outputs/`).
+
+### 5. How do players develop?
+
+![Development curve and breakout watchlist](outputs/figures/development_curve.png)
+
+**Contribution score:** each player's own stats weighted by the margin model's points per stat, giving an estimate of points of margin per game. Free kicks for and hit-outs are left out at player level, because their team-level weights reflect confounding (frees are already counted inside possessions) rather than a player's value. It's a simple, transparent rating, not a complete measure of a player.
+
+**Development curve:** a mixed-effects model of season-average contribution against age, where each player gets his own baseline and his own rate of change. Comparing each player with himself matters: raw averages look flat after 25 only because the players still playing at 30 are the good ones. The typical player peaks at about 25.7.
+
+**Backtest:** trained on the seasons before 2024, 2025 and 2026 in turn, then predicting that season. Typical error, in points per game:
+
+| Model | All players | Under 23 |
+| --- | --- | --- |
+| Same as last season | 1.12 | 1.23 |
+| Last season + typical age change | 1.09 | 1.19 |
+| **Development model** | **1.08** | **1.17** |
+
+The model is better on average, by about 5% for under-23s, but not in every season (it was worse in 2025). That's a modest, honest edge, which is why the watchlist is a prompt for a closer look, not a verdict.
+
+**Watchlist:** under-23s in 2026 with 8+ games, projected one season ahead (`outputs/breakout_watchlist_2027.csv`). Projections pull back towards typical, because one big season is partly luck.
+
+**For list managers:** use it to decide who deserves a closer look at contract time. Role changes, injuries and coaching shape these curves, and public data can't see any of them.
+
+Run: `python -m src.development`
 
